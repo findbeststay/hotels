@@ -1,6 +1,6 @@
 [
-  {"name":"Taj Mahal Palace","city":"Mumbai"},
-  {"name":"Taj Palace Hotel","city":"New Delhi"},
-  {"name":"Vivanta by TAJ","city":"Mumbai"},
-  {"name":"Hotel Taj Princess","city":"Delhi"}
+  {"name":"Taj Palace Hotel","city":"New Delhi","country":"India"},
+  {"name":"Taj Mahal Palace","city":"Mumbai","country":"India"},
+  {"name":"Taj Exotica","city":"Dubai","country":"UAE"},
+  {"name":"Vivanta by TAJ","city":"Mumbai","country":"India"}
 ]
