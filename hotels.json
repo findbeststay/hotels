@@ -1,12 +1,6 @@
 [
-  {"name":"Taj Mahal Palace Mumbai"},
-  {"name":"Taj Palace Hotel New Delhi"},
-  {"name":"The Oberoi Udaivilas"},
-  {"name":"Vivanta by TAJ"},
-  {"name":"Hotel Taj Princess"},
-  {"name":"The Leela Palace New Delhi"},
-  {"name":"ITC Maurya New Delhi"},
-  {"name":"JW Marriott Aerocity"},
-  {"name":"Trident Gurgaon"},
-  {"name":"Radisson Blu Jaipur"}
+  {"name":"Taj Mahal Palace","city":"Mumbai"},
+  {"name":"Taj Palace Hotel","city":"New Delhi"},
+  {"name":"Vivanta by TAJ","city":"Mumbai"},
+  {"name":"Hotel Taj Princess","city":"Delhi"}
 ]
